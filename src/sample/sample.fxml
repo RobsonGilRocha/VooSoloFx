@@ -30,7 +30,7 @@
       </Button>
       <TextField fx:id="tfTextoNome" layoutX="170.0" layoutY="14.0" maxHeight="24.0" maxWidth="138.0" minHeight="24.0" minWidth="138.0" prefHeight="24.0" prefWidth="138.0" />
       <TextField fx:id="tfTextoSobreNome" layoutX="170.0" layoutY="53.0" maxHeight="24.0" maxWidth="138.0" minHeight="24.0" minWidth="138.0" prefHeight="24.0" prefWidth="138.0" />
-      <TextField fx:id="tfTextoNascimento" layoutX="170.0" layoutY="90.0" maxHeight="24.0" maxWidth="138.0" minHeight="24.0" minWidth="138.0" prefHeight="24.0" prefWidth="138.0" />
       <TextArea fx:id="tfTextoFinalA" layoutX="18.0" layoutY="206.0" maxHeight="73.0" maxWidth="268.0" minHeight="73.0" minWidth="268.0" prefHeight="73.0" prefWidth="268.0" />
+      <DatePicker fx:id="tfTextoNascimento" layoutX="170.0" layoutY="82.0" maxHeight="34.0" maxWidth="138.0" minHeight="34.0" minWidth="138.0" prefHeight="34.0" prefWidth="138.0" />
    </children>
 </Pane>
